@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /apps/
+Disallow: /_*/
+Sitemap: http://vaibhavbehl.com/sitemap.xml

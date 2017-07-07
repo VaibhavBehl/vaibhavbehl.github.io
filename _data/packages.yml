@@ -1,0 +1,23 @@
+- pkgname: Kaggle - Walmart Trip Type Classification
+  description: "Classify customer trips from a dataset of the items they have purchased at Wallmart. <a href='https://www.kaggle.com/c/walmart-recruiting-trip-type-classification'>Go to Competition page.</a>"
+  achieve: Leaderboard Rank:#157/1047
+  owner: VaibhavBehl
+  reponame: Kaggle_Walmart_Trip_Type_Classification
+- pkgname: Kaggle - How much did it rain-II
+  description: "Predict rain-gauge reading from polarimetric radar data. Team project for class 567. <a href='https://www.kaggle.com/c/how-much-did-it-rain-ii'>Go to Competition page.</a>"
+  achieve: Leaderboard Rank:#36/587
+  owner: VaibhavBehl
+  reponame: Kaggle_Walmart_Trip_Type_Classification
+- pkgname: Yelp dataset - Predict Rating of User Reviews
+  description: "Classification of user reviews using the text from the review. Extracted various features from text and applied NaiveBayes, Logistic Regression, SVM and Random Forests. Team project for class 544."
+  tutorial:
+  owner: VaibhavBehl
+  reponame: Yelp_dataset_Predict_Rating_of_User_Reviews
+- pkgname: Matlab Implementation of Machine Learning Algorithms
+  description: "Implemented popular regression and classification algorithms like Linear Regression, KNN, NaiveBayes, Logistic Regression, K-means, SVM, PCA."
+  owner: VaibhavBehl
+  reponame: Implementation_ML_algorithms
+- pkgname: Socialytics - mining social interactions
+  description: "This app scans user's interaction data from Facebook Graph API and computes their top social connections using features like- picture tags, conversations, likes, etc. <a href='https://play.google.com/store/apps/details?id=com.vbehl.connections'>Download from Google Playstore!</a>"
+  owner: VaibhavBehl
+  reponame: Socialytics-AndroidApp
